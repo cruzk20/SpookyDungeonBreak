@@ -1,0 +1,1240 @@
+﻿Log file open, 06/10/19 11:42:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpookyPrisonBreak
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.398572
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.10-18.42.53:460][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.10-18.42.53:460][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.10-18.42.53:460][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Engine.ini]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Engine.ini]
+[2019.06.10-18.42.53:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Engine.ini]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Engine.ini]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.10-18.42.53:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Engine.ini]
+[2019.06.10-18.42.53:461][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Engine.ini]
+[2019.06.10-18.42.53:468][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:468][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.10-18.42.53:468][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.10-18.42.53:468][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:468][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.10-18.42.53:468][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:468][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.10-18.42.53:468][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.10-18.42.53:468][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.10-18.42.53:469][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.10-18.42.53:469][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.10-18.42.53:469][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.10-18.42.53:484][  0]LogHAL: Display: Platform has ~ 16 GB [17037496320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.10-18.42.53:484][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.10-18.42.53:484][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.10-18.42.53:484][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Scalability.ini]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.10-18.42.53:485][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Config/Windows/Engine.ini]
+[2019.06.10-18.42.53:486][  0]LogInit: Computer: DESKTOP-I4RRQ95
+[2019.06.10-18.42.53:486][  0]LogInit: User: CallumMorham
+[2019.06.10-18.42.53:486][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.10-18.42.53:486][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.10-18.42.53:486][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.10-18.42.53:486][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.10-18.42.53:486][  0]LogMemory: Process Physical Memory: 96.67 MB used, 96.68 MB peak
+[2019.06.10-18.42.53:486][  0]LogMemory: Process Virtual Memory: 91.67 MB used, 91.67 MB peak
+[2019.06.10-18.42.53:486][  0]LogMemory: Physical Memory: 9601.91 MB used,  6646.31 MB free, 16248.22 MB total
+[2019.06.10-18.42.53:486][  0]LogMemory: Virtual Memory: 4676.19 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.06.10-18.42.53:511][  0]LogInit: Using OS detected language (en-US).
+[2019.06.10-18.42.53:511][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.10-18.42.53:511][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.10-18.42.53:760][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.10-18.42.53:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.10-18.42.53:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.10-18.42.53:991][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.10-18.42.53:991][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.10-18.42.54:075][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.06.10-18.42.54:075][  0]LogD3D11RHI:       8079/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.10-18.42.54:088][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.06.10-18.42.54:088][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.06.10-18.42.54:090][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.10-18.42.54:090][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.10-18.42.54:090][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.10-18.42.54:105][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.10-18.42.54:105][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.10-18.42.54:105][  0]LogWindows: EnumDisplayDevices:
+[2019.06.10-18.42.54:105][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.06.10-18.42.54:105][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.06.10-18.42.54:106][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.06.10-18.42.54:106][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.06.10-18.42.54:106][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.06.10-18.42.54:106][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.06.10-18.42.54:107][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.06.10-18.42.54:107][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.10-18.42.54:107][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.06.10-18.42.54:107][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.06.10-18.42.54:107][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.06.10-18.42.54:107][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.06.10-18.42.54:156][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.10-18.42.54:170][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.10-18.42.54:171][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.10-18.42.54:171][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.10-18.42.54:180][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.10-18.42.54:502][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.10-18.42.54:515][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.10-18.42.54:529][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.10-18.42.54:541][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.10-18.42.54:553][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.10-18.42.54:565][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.10-18.42.54:576][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.10-18.42.54:592][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.10-18.42.54:597][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.10-18.42.54:671][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.10-18.42.54:673][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.10-18.42.54:717][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.10-18.42.54:717][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.10-18.42.54:739][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.10-18.42.54:739][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.10-18.42.54:751][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.10-18.42.54:761][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.10-18.42.54:772][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.10-18.42.54:783][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.10-18.42.54:827][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.10-18.42.54:827][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.10-18.42.54:827][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.10-18.42.54:832][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.10-18.42.54:881][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Intermediate/Shaders/WorkingDirectory/22816/).
+[2019.06.10-18.42.54:881][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Callum Morham/AppData/Local/Temp/UnrealShaderWorkingDir/27AAA0694A1C22076E0A9E917746E908/'.
+[2019.06.10-18.42.54:883][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.10-18.42.54:883][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.10-18.42.54:883][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.10-18.42.55:416][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.10-18.42.55:490][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Callum Morham/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.10-18.42.55:491][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Callum Morham/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.10-18.42.55:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.10-18.42.55:491][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.10-18.42.55:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.10-18.42.55:491][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.10-18.42.55:503][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.10-18.42.55:503][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.10-18.42.55:503][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.10-18.42.55:516][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Callum Morham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.10-18.42.55:516][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.10-18.42.55:516][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.10-18.42.55:540][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.10-18.42.55:542][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.10-18.42.55:542][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.10-18.42.55:628][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2019.06.10-18.42.55:998][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.10-18.42.56:121][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.10-18.42.56:121][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.10-18.42.56:121][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.10-18.42.56:121][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.10-18.42.56:121][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.10-18.42.56:134][  0]LogNetVersion: SpookyPrisonBreak 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3106989791)
+[2019.06.10-18.42.56:594][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.055598 seconds
+[2019.06.10-18.42.56:603][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.10-18.42.56:603][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.10-18.42.56:603][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.10-18.43.00:904][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.10-18.43.00:957][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.10-18.43.01:578][  0]SourceControl: Source control is disabled
+[2019.06.10-18.43.01:578][  0]SourceControl: Source control is disabled
+[2019.06.10-18.43.01:634][  0]SourceControl: Source control is disabled
+[2019.06.10-18.43.01:671][  0]SourceControl: Source control is disabled
+[2019.06.10-18.43.02:874][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.10-18.43.03:599][  0]LogOcInput: OculusInput pre-init called
+[2019.06.10-18.43.04:576][  0]LogEngine: Initializing Engine...
+[2019.06.10-18.43.04:577][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.10-18.43.04:577][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.10-18.43.05:164][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.10-18.43.05:218][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.10-18.43.05:325][  0]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2019.06.10-18.43.05:350][  0]LogInit: FAudioDevice initialized.
+[2019.06.10-18.43.05:350][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.10-18.43.05:355][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Callum Morham/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.10-18.43.05:365][  0]LogInit: Texture streaming: Enabled
+[2019.06.10-18.43.05:475][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.10-18.43.05:540][  0]LogInit: Transaction tracking system initialized
+[2019.06.10-18.43.05:673][  0]BlueprintLog: New page: Editor Load
+[2019.06.10-18.43.06:439][  0]LocalizationService: Localization service is disabled
+[2019.06.10-18.43.07:615][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/' took 0.01s
+[2019.06.10-18.43.07:615][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.10-18.43.07:615][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.10-18.43.08:851][  0]SourceControl: Source control is disabled
+[2019.06.10-18.43.08:851][  0]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.43.08:851][  0]LightingResults: New page: Lighting Build
+[2019.06.10-18.43.08:853][  0]MapCheck: New page: Map Check
+[2019.06.10-18.43.08:853][  0]LightingResults: New page: Lighting Build
+[2019.06.10-18.43.08:879][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.06.10-18.43.09:176][  0]LogLinker: Warning: Can't find file '/Game/98htf7f7zekg-Linterna/Linterna/None'
+[2019.06.10-18.43.09:176][  0]LogLinker: Warning: Can't find file for asset '/Game/98htf7f7zekg-Linterna/Linterna/None' while loading NULL.
+[2019.06.10-18.43.09:176][  0]LogLinker: Warning: Can't find file '/Game/98htf7f7zekg-Linterna/Linterna/None'
+[2019.06.10-18.43.09:177][  0]LogLinker: Warning: Can't find file for asset '/Game/98htf7f7zekg-Linterna/Linterna/None' while loading NULL.
+[2019.06.10-18.43.09:393][  0]LogLinker: Warning: Can't find file '/Game/98htf7f7zekg-Linterna/Linterna/None'
+[2019.06.10-18.43.09:393][  0]LoadErrors: Failed to load /Game/98htf7f7zekg-Linterna/Linterna/None.Material_0 Referenced by Linterna
+[2019.06.10-18.43.09:394][  0]LogLinker: Warning: Can't find file for asset '/Game/98htf7f7zekg-Linterna/Linterna/None' while loading NULL.
+[2019.06.10-18.43.09:394][  0]LogLinker: Warning: Can't find file '/Game/98htf7f7zekg-Linterna/Linterna/None'
+[2019.06.10-18.43.09:394][  0]LoadErrors: Failed to load /Game/98htf7f7zekg-Linterna/Linterna/None.Material_0 Referenced by Linterna
+[2019.06.10-18.43.09:394][  0]LogLinker: Warning: Can't find file for asset '/Game/98htf7f7zekg-Linterna/Linterna/None' while loading NULL.
+[2019.06.10-18.43.09:499][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.10-18.43.09:542][  0]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-18.43.09:544][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.43.09:576][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.06.10-18.43.09:576][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.43.09:577][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2019.06.10-18.43.09:577][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.727
+[2019.06.10-18.43.09:725][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-18.43.09:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-18.43.09:744][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-18.43.09:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-18.43.09:785][  0]LogCollectionManager: Loaded 0 collections in 0.000749 seconds
+[2019.06.10-18.43.09:825][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Collections/' took 0.01s
+[2019.06.10-18.43.09:825][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/Developers/CallumMorham/Collections/' took 0.01s
+[2019.06.10-18.43.09:825][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/Collections/' took 0.01s
+[2019.06.10-18.43.09:825][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.10-18.43.09:833][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2732 classes and 659 folders.
+[2019.06.10-18.43.09:856][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.10-18.43.09:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:892][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:928][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.09:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:014][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:018][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:024][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:035][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.10-18.43.10:157][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.10-18.43.10:202][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.10-18.43.10:221][  0]LogSlate: Took 0.004065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.10-18.43.10:231][  0]LogSlate: Took 0.007571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.10-18.43.10:239][  0]LogSlate: Took 0.003593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.10-18.43.10:362][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.10-18.43.10:645][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.10-18.43.10:645][  0]LogLoad: (Engine Initialization) Total time: 18.82 seconds
+[2019.06.10-18.43.10:645][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.10-18.43.10:679][  0]LogAssetRegistry: Asset discovery search completed in 15.0742 seconds
+[2019.06.10-18.43.10:682][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.10-18.43.10:682][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2019.06.10-18.43.10:684][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.10-18.43.10:714][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.43.10:758][  0]LogSlate: Took 0.004009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.10-18.43.12:515][179]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-18.43.12:518][179]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-18.43.25:500][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.43.26:429][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.43.28:170][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.06.10-18.43.28:171][ 15]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.43.28:176][ 15]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.10-18.43.28:187][ 15]LightingResults: New page: Lighting Build
+[2019.06.10-18.43.28:188][ 15]LoadErrors: New page: Loading map: FirstLevel.umap
+[2019.06.10-18.43.28:191][ 15]MapCheck: New page: Map Check
+[2019.06.10-18.43.28:191][ 15]LightingResults: New page: Lighting Build
+[2019.06.10-18.43.28:218][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.06.10-18.43.28:259][ 15]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-18.43.28:267][ 15]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.43.28:296][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.06.10-18.43.28:320][ 15]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.43.28:320][ 15]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2019.06.10-18.43.28:320][ 15]LogFileHelpers: Loading map 'FirstLevel' took 0.151
+[2019.06.10-18.43.28:321][ 15]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-18.43.30:534][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.44.07:677][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.06.10-18.46.06:161][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.46.08:001][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.46.10:597][555]LogSlate: Took 0.003501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.10-18.46.15:081][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.46.20:759][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.06.10-18.46.23:494][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.46.24:912][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.46.56:468][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.10-18.46.59:708][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.46.59:882][591]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-18.46.59:892][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-18.46.59:892][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.10-18.46.59:893][591]PIE: New page: PIE session: FirstLevel (Jun 10, 2019, 4:46:59 AM)
+[2019.06.10-18.46.59:905][591]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FirstLevel
+[2019.06.10-18.46.59:909][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004307s)
+[2019.06.10-18.46.59:909][591]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-18.46.59:909][591]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2019.06.10-18.46.59:909][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstLevel.FirstLevel to /Game/UEDPIE_0_FirstLevel.FirstLevel (0.005240s)
+[2019.06.10-18.46.59:936][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.06.10-18.46.59:986][591]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2019.06.10-18.46.59:997][591]LogInit: FAudioDevice initialized.
+[2019.06.10-18.47.00:040][591]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-18.47.00:042][591]LogWorld: Bringing World /Game/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2019.06.10-11.47.00
+[2019.06.10-18.47.00:042][591]LogWorld: Bringing up level for play took: 0.000840
+[2019.06.10-18.47.00:057][591]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.06.10-18.47.00:058][591]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Game/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-18.47.00:058][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Construction Script Graph:  UserConstructionScript Node:  AttachToComponent
+[2019.06.10-18.47.00:059][591]PIE: Play in editor start time for /Game/UEDPIE_0_FirstLevel -0.455
+[2019.06.10-18.47.00:060][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-18.47.08:134][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-18.47.08:134][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-18.47.08:171][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-18.47.08:171][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-18.47.08:218][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-18.47.08:221][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.06.10-18.47.08:230][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.47.08:259][540]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.06.10-18.47.09:752][697]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-18.47.09:757][697]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-18.47.11:055][847]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.47.13:127][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.47.14:868][268]LogAIModule: Creating AISystem for world OpeningLevel
+[2019.06.10-18.47.15:092][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.47.17:745][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.06.10-18.47.19:570][567]LogSlate: Window 'Save Content' being destroyed
+[2019.06.10-18.47.19:581][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.47.19:591][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.10-18.47.19:628][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.10-18.47.19:743][567]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel43E3938E4864181A0BC5999709B6E6ED.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap'
+[2019.06.10-18.47.19:766][567]LogFileHelpers: Saving map 'FirstLevel' took 0.174
+[2019.06.10-18.47.19:772][567]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.47.19:777][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.47.19:782][567]LightingResults: New page: Lighting Build
+[2019.06.10-18.47.19:782][567]LoadErrors: New page: Loading map: OpeningLevel.umap
+[2019.06.10-18.47.19:783][567]MapCheck: New page: Map Check
+[2019.06.10-18.47.19:783][567]LightingResults: New page: Lighting Build
+[2019.06.10-18.47.19:811][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.06.10-18.47.19:819][567]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.47.19:847][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.06.10-18.47.19:876][567]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.47.19:876][567]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2019.06.10-18.47.19:876][567]LogFileHelpers: Loading map 'OpeningLevel' took 0.106
+[2019.06.10-18.47.19:876][567]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-18.47.19:898][567]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-18.47.25:508][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.06.10-18.47.33:819][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2019.06.10-18.47.38:326][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2019.06.10-18.47.43:216][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.48.02:543][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.48.07:250][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.48.09:042][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.48.13:777][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.48.35:328][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.48.36:896][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.48.38:152][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.48.44:087][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.48.46:368][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.48.59:739][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.49.00:571][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.49.01:737][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.06.10-18.49.02:720][430]LogSlate: Window 'Save Content' being destroyed
+[2019.06.10-18.49.02:736][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.49.02:745][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningLevel" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.10-18.49.02:773][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.06.10-18.49.02:882][430]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/OpeningLevelE06DC6EA4D7F33A3D63727BA6D374CED.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap'
+[2019.06.10-18.49.02:905][430]LogFileHelpers: Saving map 'OpeningLevel' took 0.160
+[2019.06.10-18.49.02:911][430]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.49.02:917][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.49.02:922][430]LightingResults: New page: Lighting Build
+[2019.06.10-18.49.02:923][430]LoadErrors: New page: Loading map: FirstLevel.umap
+[2019.06.10-18.49.02:924][430]MapCheck: New page: Map Check
+[2019.06.10-18.49.02:924][430]LightingResults: New page: Lighting Build
+[2019.06.10-18.49.02:952][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.06.10-18.49.02:957][430]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.49.02:985][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2019.06.10-18.49.03:010][430]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.49.03:011][430]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2019.06.10-18.49.03:011][430]LogFileHelpers: Loading map 'FirstLevel' took 0.102
+[2019.06.10-18.49.03:011][430]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-18.49.03:033][430]LogAIModule: Creating AISystem for world OpeningLevel
+[2019.06.10-18.49.05:397][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.49.12:345][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.49.12:450][496]LogActorFactory: Actor Factory created Cube
+[2019.06.10-18.49.13:377][594]LogActorFactory: Actor Factory created Cube
+[2019.06.10-18.49.14:957][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.49.26:036][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.49.27:478][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.49.33:874][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.06.10-18.49.34:426][561]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2019.06.10-18.49.34:773][592]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2019.06.10-18.49.35:072][621]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2019.06.10-18.49.35:348][646]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.49.35:662][649]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.49.36:183][702]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube8)
+[2019.06.10-18.49.36:647][748]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2019.06.10-18.49.37:646][857]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.49.39:599][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2019.06.10-18.49.41:384][267]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.10-18.49.42:024][337]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2019.06.10-18.49.44:198][584]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube10)
+[2019.06.10-18.49.44:667][633]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.49.45:678][748]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2019.06.10-18.49.47:866][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.49.55:730][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.50.01:631][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.50.02:722][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.50.06:534][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.50.10:951][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.06.10-18.50.12:047][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.50.12:698][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.50.42:984][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.50.43:816][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.50.46:287][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.06.10-18.50.48:353][502]LogSlate: Window 'Save Content' being destroyed
+[2019.06.10-18.50.48:364][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.50.48:376][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.10-18.50.48:400][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.06.10-18.50.48:504][502]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel28D0C231463C2C39A1A1D8A88096F109.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap'
+[2019.06.10-18.50.48:525][502]LogFileHelpers: Saving map 'FirstLevel' took 0.150
+[2019.06.10-18.50.48:531][502]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.50.48:536][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.50.48:540][502]LightingResults: New page: Lighting Build
+[2019.06.10-18.50.48:541][502]LoadErrors: New page: Loading map: OpeningLevel.umap
+[2019.06.10-18.50.48:542][502]MapCheck: New page: Map Check
+[2019.06.10-18.50.48:542][502]LightingResults: New page: Lighting Build
+[2019.06.10-18.50.48:569][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.06.10-18.50.48:575][502]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.50.48:600][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.06.10-18.50.48:625][502]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.50.48:625][502]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2019.06.10-18.50.48:625][502]LogFileHelpers: Loading map 'OpeningLevel' took 0.096
+[2019.06.10-18.50.48:625][502]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-18.50.48:646][502]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-18.50.49:365][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.50.58:133][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.51.01:506][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.06.10-18.51.01:508][236]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.51.01:518][236]LightingResults: New page: Lighting Build
+[2019.06.10-18.51.01:519][236]LoadErrors: New page: Loading map: FirstLevel.umap
+[2019.06.10-18.51.01:520][236]MapCheck: New page: Map Check
+[2019.06.10-18.51.01:520][236]LightingResults: New page: Lighting Build
+[2019.06.10-18.51.01:547][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.06.10-18.51.01:554][236]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.51.01:580][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.06.10-18.51.01:599][236]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.51.01:600][236]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2019.06.10-18.51.01:600][236]LogFileHelpers: Loading map 'FirstLevel' took 0.093
+[2019.06.10-18.51.01:600][236]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-18.51.03:071][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.51.04:475][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.51.06:336][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.51.06:697][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.51.07:118][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.51.15:229][696]Cmd: EDIT COPY
+[2019.06.10-18.51.15:415][717]Cmd: EDIT PASTE
+[2019.06.10-18.51.23:228][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.51.24:499][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.51.26:799][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.06.10-18.51.27:603][918]LogSlate: Window 'Save Content' being destroyed
+[2019.06.10-18.51.27:614][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.51.27:621][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.10-18.51.27:648][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.06.10-18.51.27:752][918]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel695BA36D42D89D8A965F73BA9E359C73.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap'
+[2019.06.10-18.51.27:775][918]LogFileHelpers: Saving map 'FirstLevel' took 0.154
+[2019.06.10-18.51.27:779][918]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.51.27:785][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.51.27:791][918]LightingResults: New page: Lighting Build
+[2019.06.10-18.51.27:791][918]LoadErrors: New page: Loading map: OpeningLevel.umap
+[2019.06.10-18.51.27:792][918]MapCheck: New page: Map Check
+[2019.06.10-18.51.27:792][918]LightingResults: New page: Lighting Build
+[2019.06.10-18.51.27:818][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.06.10-18.51.27:838][918]LogAIModule: Creating AISystem for world OpeningLevel
+[2019.06.10-18.51.27:843][918]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.51.27:869][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.06.10-18.51.27:896][918]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.51.27:896][918]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.06.10-18.51.27:896][918]LogFileHelpers: Loading map 'OpeningLevel' took 0.117
+[2019.06.10-18.51.27:896][918]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-18.51.27:919][918]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-18.51.31:808][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.51.33:979][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.06.10-18.51.49:190][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.51.52:568][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.51.53:951][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.51.55:500][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.52.03:151][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.52.09:689][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.52.10:875][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.52.12:476][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.52.15:760][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.52.16:896][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.52.18:663][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.06.10-18.52.20:130][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.52.21:761][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.52.23:323][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.52.27:057][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.52.51:146][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.52.52:562][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.52.53:495][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-18.52.54:228][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.53.03:443][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningLevel" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.10-18.53.03:477][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.06.10-18.53.03:587][264]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/OpeningLevelB656F6104319903770ABB294B00E6167.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap'
+[2019.06.10-18.53.03:610][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpeningLevel_BuiltData" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel_BuiltData.uasset" SILENT=true
+[2019.06.10-18.53.03:641][264]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/OpeningLevel_BuiltDataBBEE54164B3F0A74D403E4A854BF65C5.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel_BuiltData.uasset'
+[2019.06.10-18.53.04:230][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.53.04:852][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.53.06:551][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.06.10-18.53.06:552][569]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-18.53.06:563][569]LightingResults: New page: Lighting Build
+[2019.06.10-18.53.06:564][569]LoadErrors: New page: Loading map: FirstLevel.umap
+[2019.06.10-18.53.06:566][569]MapCheck: New page: Map Check
+[2019.06.10-18.53.06:567][569]LightingResults: New page: Lighting Build
+[2019.06.10-18.53.06:591][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.06.10-18.53.06:598][569]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-18.53.06:624][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.06.10-18.53.06:649][569]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-18.53.06:649][569]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2019.06.10-18.53.06:649][569]LogFileHelpers: Loading map 'FirstLevel' took 0.097
+[2019.06.10-18.53.06:649][569]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-18.53.08:576][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.53.09:839][933]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2019.06.10-18.53.11:960][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.53.16:230][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.53.20:666][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.53.22:126][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.53.26:939][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2019.06.10-18.53.28:303][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.53.32:110][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.53.34:065][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2019.06.10-18.53.38:371][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.53.39:400][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.53.42:808][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2019.06.10-18.53.43:229][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.53.51:317][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2019.06.10-18.53.53:346][342]Cmd: EDIT COPY
+[2019.06.10-18.53.53:541][365]Cmd: EDIT PASTE
+[2019.06.10-18.54.26:178][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.54.37:760][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2019.06.10-18.54.39:212][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2019.06.10-18.54.40:363][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.54.41:642][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2019.06.10-18.54.42:520][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.55.05:772][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.55.06:595][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2019.06.10-18.55.07:093][952]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.55.08:031][ 55]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2019.06.10-18.55.10:492][291]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.55.18:061][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.55.19:369][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.55.19:837][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.55.20:374][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2019.06.10-18.55.26:526][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2019.06.10-18.55.51:389][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.55.58:132][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.56.17:219][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.56.19:630][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.56.21:511][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-18.56.31:057][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.06.10-18.56.35:926][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.57.02:630][791]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.06.10-18.57.02:697][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.57.03:184][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.06.10-18.57.06:716][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-18.57.31:246][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.57.36:979][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-18.57.40:851][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.58.13:417][383]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2019.06.10-18.58.13:454][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-18.58.14:162][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.58.14:479][494]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.06.10-18.58.19:758][102]Cmd: EDIT COPY
+[2019.06.10-18.58.19:971][125]Cmd: EDIT PASTE
+[2019.06.10-18.58.24:599][657]Cmd: TRANSACTION UNDO
+[2019.06.10-18.58.24:600][657]LogEditorTransaction: Undo Move Components
+[2019.06.10-18.58.25:376][734]Cmd: TRANSACTION UNDO
+[2019.06.10-18.58.25:376][734]LogEditorTransaction: Undo Paste Components
+[2019.06.10-18.58.26:161][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.06.10-18.58.26:588][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-18.58.27:063][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-18.58.28:124][ 32]Cmd: EDIT COPY
+[2019.06.10-18.58.28:371][ 60]Cmd: EDIT PASTE
+[2019.06.10-18.59.20:169][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2019.06.10-18.59.45:979][  7]Cmd: EDIT COPY
+[2019.06.10-18.59.46:181][ 30]Cmd: EDIT PASTE
+[2019.06.10-18.59.56:363][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.00.01:954][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.00.40:023][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.00.44:434][630]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube19)
+[2019.06.10-19.00.44:472][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.00.45:101][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-19.00.52:196][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.01.15:195][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.01.16:341][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.01.24:455][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.01.35:501][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.01.52:588][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.02.31:881][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.02.34:031][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.02.37:936][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.03.20:186][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.03.29:037][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.03.29:085][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.06.10-19.03.29:211][499]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel_Auto1946BE6824CECE2082F448EA4E8F33A99.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Autosaves/Game/FirstLevel_Auto1.umap'
+[2019.06.10-19.03.29:216][499]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstLevel' took 0.159
+[2019.06.10-19.03.29:217][499]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.159
+[2019.06.10-19.03.32:431][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.03.52:905][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.04.00:725][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2019.06.10-19.04.07:034][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2019.06.10-19.04.08:959][340]Cmd: EDIT COPY
+[2019.06.10-19.04.09:147][361]Cmd: EDIT PASTE
+[2019.06.10-19.04.13:391][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.04.22:797][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.04.32:136][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.04.37:902][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.05.01:871][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.05.16:844][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2019.06.10-19.05.19:521][927]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube20)
+[2019.06.10-19.05.20:176][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.05.23:383][366]Cmd: EDIT COPY
+[2019.06.10-19.05.23:573][388]Cmd: EDIT PASTE
+[2019.06.10-19.05.37:879][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2019.06.10-19.05.41:808][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-19.05.50:018][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2019.06.10-19.05.51:061][241]Cmd: EDIT COPY
+[2019.06.10-19.05.51:320][270]Cmd: EDIT PASTE
+[2019.06.10-19.06.00:995][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-19.06.02:857][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2019.06.10-19.06.24:195][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.07.24:411][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.07.32:175][914]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2019.06.10-19.07.50:271][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.08.28:108][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2019.06.10-19.08.29:256][856]Cmd: EDIT COPY
+[2019.06.10-19.08.29:466][879]Cmd: EDIT PASTE
+[2019.06.10-19.08.52:207][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2019.06.10-19.08.52:767][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2019.06.10-19.08.53:615][532]Cmd: EDIT COPY
+[2019.06.10-19.08.55:093][699]Cmd: EDIT PASTE
+[2019.06.10-19.09.18:749][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2019.06.10-19.09.19:925][456]Cmd: EDIT COPY
+[2019.06.10-19.09.20:519][520]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2019.06.10-19.09.21:402][615]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2019.06.10-19.09.22:417][724]Cmd: EDIT COPY
+[2019.06.10-19.09.22:613][745]Cmd: EDIT PASTE
+[2019.06.10-19.09.37:443][904]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.06.10-19.09.37:512][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.09.38:122][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2019.06.10-19.09.39:611][128]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2019.06.10-19.09.41:882][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2019.06.10-19.09.44:865][691]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2019.06.10-19.09.45:733][770]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2019.06.10-19.09.46:521][850]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2019.06.10-19.10.13:441][802]Cmd: DELETE
+[2019.06.10-19.10.13:441][802]Cmd: ACTOR DELETE
+[2019.06.10-19.10.13:444][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.10.13:445][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.10.13:445][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.10.13:474][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.06.10-19.10.13:474][802]LogEditorActor: Deleted 3 Actors (0.032 secs)
+[2019.06.10-19.10.36:012][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-19.10.36:557][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.10.40:083][304]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2019.06.10-19.10.40:733][366]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube20)
+[2019.06.10-19.10.42:770][584]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2019.06.10-19.10.43:371][641]Cmd: DUPLICATE
+[2019.06.10-19.10.43:371][641]Cmd: ACTOR DUPLICATE
+[2019.06.10-19.10.44:991][811]Cmd: DUPLICATE
+[2019.06.10-19.10.44:991][811]Cmd: ACTOR DUPLICATE
+[2019.06.10-19.10.47:860][134]Cmd: TRANSACTION UNDO
+[2019.06.10-19.10.47:861][134]LogEditorTransaction: Undo Move Actors
+[2019.06.10-19.10.50:130][385]Cmd: TRANSACTION UNDO
+[2019.06.10-19.10.50:130][385]LogEditorTransaction: Undo Move Actors
+[2019.06.10-19.10.51:328][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-19.10.54:778][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2019.06.10-19.10.59:631][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2019.06.10-19.11.05:676][125]Cmd: DELETE
+[2019.06.10-19.11.05:676][125]Cmd: ACTOR DELETE
+[2019.06.10-19.11.05:678][125]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.11.05:701][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.06.10-19.11.05:701][125]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.06.10-19.11.10:613][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2019.06.10-19.11.14:020][ 76]Cmd: DELETE
+[2019.06.10-19.11.14:020][ 76]Cmd: ACTOR DELETE
+[2019.06.10-19.11.14:022][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.11.14:047][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.06.10-19.11.14:047][ 76]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.10-19.11.17:140][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2019.06.10-19.11.18:968][626]Cmd: DELETE
+[2019.06.10-19.11.18:968][626]Cmd: ACTOR DELETE
+[2019.06.10-19.11.18:969][626]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.11.18:994][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.06.10-19.11.18:994][626]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.06.10-19.11.45:988][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube19)
+[2019.06.10-19.11.48:402][536]Cmd: POLY SELECT ADJACENT WALLS
+[2019.06.10-19.11.50:012][702]Cmd: POLY SELECT ADJACENT WALLS
+[2019.06.10-19.11.50:581][769]Cmd: POLY SELECT MEMORY UNION
+[2019.06.10-19.11.59:505][794]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube21)
+[2019.06.10-19.12.00:185][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube23)
+[2019.06.10-19.12.01:337][991]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube22)
+[2019.06.10-19.12.02:065][ 66]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2019.06.10-19.12.04:371][324]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube24)
+[2019.06.10-19.12.08:675][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2019.06.10-19.12.10:706][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube15)
+[2019.06.10-19.12.12:430][242]Cmd: EDIT COPY
+[2019.06.10-19.12.12:662][269]Cmd: EDIT PASTE
+[2019.06.10-19.12.50:438][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.06.10-19.12.51:421][376]Cmd: DELETE
+[2019.06.10-19.12.51:421][376]Cmd: ACTOR DELETE
+[2019.06.10-19.12.51:424][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.12.51:448][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.06.10-19.12.51:449][376]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.10-19.13.02:010][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2019.06.10-19.13.04:575][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-19.13.13:590][836]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2019.06.10-19.13.19:120][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2019.06.10-19.13.35:209][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.13.35:271][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-19.13.35:279][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.13.35:279][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.10-19.13.35:279][ 60]PIE: New page: PIE session: FirstLevel (Jun 10, 2019, 5:13:35 AM)
+[2019.06.10-19.13.35:279][ 60]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FirstLevel
+[2019.06.10-19.13.35:284][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005031s)
+[2019.06.10-19.13.35:285][ 60]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-19.13.35:285][ 60]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2019.06.10-19.13.35:285][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstLevel.FirstLevel to /Game/UEDPIE_0_FirstLevel.FirstLevel (0.006265s)
+[2019.06.10-19.13.35:309][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.06.10-19.13.35:364][ 60]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2019.06.10-19.13.35:376][ 60]LogInit: FAudioDevice initialized.
+[2019.06.10-19.13.35:411][ 60]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-19.13.35:412][ 60]LogWorld: Bringing World /Game/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2019.06.10-12.13.35
+[2019.06.10-19.13.35:412][ 60]LogWorld: Bringing up level for play took: 0.000974
+[2019.06.10-19.13.35:426][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Game/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-19.13.35:427][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Construction Script Graph:  UserConstructionScript Node:  AttachToComponent
+[2019.06.10-19.13.35:427][ 60]PIE: Play in editor start time for /Game/UEDPIE_0_FirstLevel 0.913
+[2019.06.10-19.13.35:427][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.14.01:342][114]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.14.01:342][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-19.14.01:375][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-19.14.01:375][114]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.14.01:405][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-19.14.01:408][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.06.10-19.14.01:416][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.14.01:448][115]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.10-19.14.02:556][226]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-19.14.02:559][226]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-19.14.15:410][706]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2019.06.10-19.14.15:995][763]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube33)
+[2019.06.10-19.14.16:702][835]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube37)
+[2019.06.10-19.14.17:255][888]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube32)
+[2019.06.10-19.14.17:961][959]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube31)
+[2019.06.10-19.14.18:912][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2019.06.10-19.14.21:681][325]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube36)
+[2019.06.10-19.14.22:357][379]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube34)
+[2019.06.10-19.14.23:031][446]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube35)
+[2019.06.10-19.14.26:876][792]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2019.06.10-19.14.28:424][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2019.06.10-19.14.29:430][ 52]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2019.06.10-19.14.31:601][274]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube29)
+[2019.06.10-19.14.36:144][765]Cmd: EDIT COPY
+[2019.06.10-19.14.40:363][201]Cmd: EDIT PASTE
+[2019.06.10-19.15.09:730][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.06.10-19.15.12:610][272]Cmd: DELETE
+[2019.06.10-19.15.12:610][272]Cmd: ACTOR DELETE
+[2019.06.10-19.15.12:612][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.15.12:637][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.06.10-19.15.12:637][272]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.06.10-19.15.16:575][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.10-19.15.17:218][776]Cmd: DELETE
+[2019.06.10-19.15.17:218][776]Cmd: ACTOR DELETE
+[2019.06.10-19.15.17:220][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.15.17:246][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.06.10-19.15.17:246][776]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.06.10-19.15.18:219][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.06.10-19.15.22:097][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-19.15.22:617][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2019.06.10-19.15.37:803][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.06.10-19.15.40:125][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2019.06.10-19.15.45:719][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.06.10-19.16.19:687][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.06.10-19.16.19:838][756]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel_Auto2F20611AE4071B387F16BC3A0F0BC3B61.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Autosaves/Game/FirstLevel_Auto2.umap'
+[2019.06.10-19.16.19:841][756]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstLevel' took 0.182
+[2019.06.10-19.16.19:841][756]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2019.06.10-19.17.22:844][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2019.06.10-19.17.24:428][666]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube48)
+[2019.06.10-19.17.24:949][719]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube43)
+[2019.06.10-19.17.25:849][816]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube42)
+[2019.06.10-19.17.26:181][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube44)
+[2019.06.10-19.17.27:324][976]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube39)
+[2019.06.10-19.17.29:059][153]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube45)
+[2019.06.10-19.17.29:713][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube47)
+[2019.06.10-19.17.30:857][319]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube46)
+[2019.06.10-19.17.33:429][584]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube40)
+[2019.06.10-19.17.35:640][816]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube41)
+[2019.06.10-19.17.39:398][231]Cmd: EDIT COPY
+[2019.06.10-19.17.39:609][250]Cmd: EDIT PASTE
+[2019.06.10-19.18.05:485][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2019.06.10-19.18.06:633][827]Cmd: DELETE
+[2019.06.10-19.18.06:633][827]Cmd: ACTOR DELETE
+[2019.06.10-19.18.06:635][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.10-19.18.06:661][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.06.10-19.18.06:662][827]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.06.10-19.19.04:082][939]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.10-19.19.04:082][939]Can't find target actor or component.
+[2019.06.10-19.19.06:449][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.19.06:563][204]LogActorFactory: Actor Factory created Cube
+[2019.06.10-19.19.07:255][267]LogActorFactory: Actor Factory created Cube
+[2019.06.10-19.19.15:011][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.06.10-19.19.16:312][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.19.25:130][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2019.06.10-19.19.25:649][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2019.06.10-19.19.31:215][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.06.10-19.19.32:278][792]Cmd: EDIT COPY
+[2019.06.10-19.19.32:458][810]Cmd: EDIT PASTE
+[2019.06.10-19.19.50:990][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.19.51:064][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.10-19.19.51:096][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.06.10-19.19.51:228][744]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevelD5760BF241B86E27A8B8FEAF89B3DF3F.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap'
+[2019.06.10-19.19.51:256][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel_BuiltData" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel_BuiltData.uasset" SILENT=true
+[2019.06.10-19.19.51:279][744]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel_BuiltData2FCEA52D4EBC39F3FCDD43A33BFCC479.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel_BuiltData.uasset'
+[2019.06.10-19.19.53:857][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.06.10-19.19.53:858][964]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/OpeningLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-19.19.53:869][964]LightingResults: New page: Lighting Build
+[2019.06.10-19.19.53:871][964]LoadErrors: New page: Loading map: OpeningLevel.umap
+[2019.06.10-19.19.53:872][964]MapCheck: New page: Map Check
+[2019.06.10-19.19.53:872][964]LightingResults: New page: Lighting Build
+[2019.06.10-19.19.53:899][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.06.10-19.19.53:916][964]LogAIModule: Creating AISystem for world OpeningLevel
+[2019.06.10-19.19.53:919][964]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-19.19.53:946][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.06.10-19.19.53:966][964]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-19.19.53:966][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.06.10-19.19.53:966][964]LogFileHelpers: Loading map 'OpeningLevel' took 0.109
+[2019.06.10-19.19.53:966][964]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-19.20.18:147][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.20.39:477][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.20.40:433][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.20.45:522][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.06.10-19.21.09:578][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.21.09:804][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.21.10:673][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.21.11:452][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.21.12:845][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.06.10-19.21.12:846][888]Cmd: MAP LOAD FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.10-19.21.12:856][888]LightingResults: New page: Lighting Build
+[2019.06.10-19.21.12:857][888]LoadErrors: New page: Loading map: FirstLevel.umap
+[2019.06.10-19.21.12:858][888]MapCheck: New page: Map Check
+[2019.06.10-19.21.12:858][888]LightingResults: New page: Lighting Build
+[2019.06.10-19.21.12:884][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.06.10-19.21.12:906][888]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-19.21.12:914][888]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.10-19.21.12:940][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.06.10-19.21.12:959][888]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.10-19.21.12:959][888]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.06.10-19.21.12:959][888]LogFileHelpers: Loading map 'FirstLevel' took 0.115
+[2019.06.10-19.21.12:959][888]LogSlate: Window 'Open Level' being destroyed
+[2019.06.10-19.21.19:816][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2019.06.10-19.21.21:159][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.21.28:897][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-19.21.34:216][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.06.10-19.21.38:537][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.06.10-19.21.42:764][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2019.06.10-19.21.45:279][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2019.06.10-19.21.47:229][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.21.49:538][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2019.06.10-19.21.50:440][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.21.52:133][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.06.10-19.21.53:437][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.21.55:948][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2019.06.10-19.21.56:909][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.22.23:137][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.22.23:237][950]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-19.22.23:248][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.22.23:248][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.10-19.22.23:248][950]PIE: New page: PIE session: FirstLevel (Jun 10, 2019, 5:22:23 AM)
+[2019.06.10-19.22.23:249][950]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FirstLevel
+[2019.06.10-19.22.23:255][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006091s)
+[2019.06.10-19.22.23:255][950]LogAIModule: Creating AISystem for world FirstLevel
+[2019.06.10-19.22.23:255][950]LogPlayLevel: PIE: World Init took: (0.000509s)
+[2019.06.10-19.22.23:255][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstLevel.FirstLevel to /Game/UEDPIE_0_FirstLevel.FirstLevel (0.006738s)
+[2019.06.10-19.22.23:282][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.06.10-19.22.23:334][950]LogInit: XAudio2 using 'Headphones (Astro MixAmp Pro Game)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2019.06.10-19.22.23:347][950]LogInit: FAudioDevice initialized.
+[2019.06.10-19.22.23:382][950]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-19.22.23:384][950]LogWorld: Bringing World /Game/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2019.06.10-12.22.23
+[2019.06.10-19.22.23:385][950]LogWorld: Bringing up level for play took: 0.001757
+[2019.06.10-19.22.23:398][950]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Game/UEDPIE_0_FirstLevel.FirstLevel:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-19.22.23:398][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Construction Script Graph:  UserConstructionScript Node:  AttachToComponent
+[2019.06.10-19.22.23:399][950]PIE: Play in editor start time for /Game/UEDPIE_0_FirstLevel 0.884
+[2019.06.10-19.22.23:399][950]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.22.52:149][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.22.52:149][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-19.22.52:185][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-19.22.52:185][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2019.06.10-19.22.52:213][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-19.22.52:216][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.06.10-19.22.52:222][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-19.22.52:257][355]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.06.10-19.22.53:313][467]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-19.22.53:318][467]LogSlate: Window 'Message Log' being destroyed
+[2019.06.10-19.22.59:904][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.23.51:238][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-19.23.51:358][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.10-19.23.51:384][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.06.10-19.23.51:748][553]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel9C0CFDB84C827B279D267590301D31FC.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel.umap'
+[2019.06.10-19.23.51:773][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel_BuiltData" FILE="C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel_BuiltData.uasset" SILENT=true
+[2019.06.10-19.23.51:791][553]LogSavePackage: Moving 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstLevel_BuiltData7064DEE24411E76E13B05CA06DAF51E3.tmp' to 'C:/Users/Callum Morham/Documents/GitHub/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstLevel_BuiltData.uasset'
+[2019.06.10-19.23.52:977][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
