@@ -813,3 +813,315 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.10-20.49.48:463][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.06.10-20.49.48:517][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
 [2019.06.10-20.49.48:748][479]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonExampleMap0DC3EF4C462949B254D227905ACB2799.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.10-20.51.36:244][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-20.51.36:423][613]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD
+[2019.06.10-20.51.36:805][613]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2019.06.10-20.58.22:972][681]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUDA48F63814AACAA06AEFE67AEE4842710.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FPSHUD.uasset'
+[2019.06.10-20.58.31:432][177]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_2
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-20.58.31:435][177]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-20.58.33:640][292]LogSlate: Took 0.016379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.10-20.58.35:015][374]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_2
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-20.58.45:612][  3]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_2
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-20.59.14:193][669]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUD24BDA6BD49384475EA1439A8A4BDB39D.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FPSHUD.uasset'
+[2019.06.10-20.59.18:479][924]BlueprintLog: New page: Compile FPSHUD
+[2019.06.10-20.59.18:513][924]LogBlueprint: Warning: [Compiler FPSHUD] 'First Person Character' does not inherit from 'Player State' ( Cast To FirstPersonCharacter  would always fail).
+[2019.06.10-20.59.18:520][924]LogBlueprint: Error: [Compiler FPSHUD] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2019.06.10-20.59.18:531][924]LogBlueprint: Error: [Compiler FPSHUD] Variable node  Get PlayerState  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.06.10-20.59.18:531][924]LogBlueprint: Error: [Compiler FPSHUD] The property associated with  Battery  could not be found in '/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD_C'
+[2019.06.10-20.59.18:620][924]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2019.06.10-20.59.18:653][924]LogBlueprint: Warning: [Compiler FPSHUD] [0794.82] Compile of FPSHUD failed. 3 Fatal Issue(s) 1 Warning(s) [in 174 ms] (/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD)
+[2019.06.10-21.00.02:689][535]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUDEDB13E5E49C44366564DBBB0F6B46E84.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FPSHUD.uasset'
+[2019.06.10-21.00.04:613][648]BlueprintLog: New page: Compile FPSHUD
+[2019.06.10-21.00.04:618][648]LogBlueprint: Error: [Compiler FPSHUD] The property associated with  Battery  could not be found in '/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD_C'
+[2019.06.10-21.00.04:675][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2019.06.10-21.00.04:684][648]LogBlueprint: Warning: [Compiler FPSHUD] [0840.85] Compile of FPSHUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 71 ms] (/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD)
+[2019.06.10-21.00.21:198][625]BlueprintLog: New page: Compile FPSHUD
+[2019.06.10-21.00.21:203][625]LogBlueprint: Error: [Compiler FPSHUD] The property associated with  Battery  could not be found in '/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD_C'
+[2019.06.10-21.00.21:256][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.06.10-21.00.21:267][625]LogBlueprint: Warning: [Compiler FPSHUD] [0857.43] Compile of FPSHUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 68 ms] (/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD)
+[2019.06.10-21.00.29:733][123]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonCharacter9D5191014D7CF139F3F548A560D4EFB7.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.06.10-21.00.31:222][208]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUD8217F07646B13752D9FAD8BB55A84A03.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FPSHUD.uasset'
+[2019.06.10-21.00.32:380][276]BlueprintLog: New page: Compile FPSHUD
+[2019.06.10-21.00.32:385][276]LogBlueprint: Error: [Compiler FPSHUD] The property associated with  Battery  could not be found in '/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD_C'
+[2019.06.10-21.00.32:441][276]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.06.10-21.00.32:452][276]LogBlueprint: Warning: [Compiler FPSHUD] [0868.62] Compile of FPSHUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 71 ms] (/Game/FirstPersonBP/Blueprints/FPSHUD.FPSHUD)
+[2019.06.10-21.00.37:833][596]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.06.10-21.00.37:858][596]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_2
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.38:161][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2019.06.10-21.00.38:167][596]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_2
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.38:173][596]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.38:189][596]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.41:351][773]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.41:360][773]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.42:277][821]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonCharacter74F27EBB4856303D03D274BEC71FF272.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.06.10-21.00.50:431][283]BlueprintLog: New page: Compile FPSHUD
+[2019.06.10-21.00.50:491][283]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2019.06.10-21.00.51:684][350]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUD1616924A44F2C41D6845DFA639F20F34.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FPSHUD.uasset'
+[2019.06.10-21.00.54:076][492]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-21.00.54:099][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.00.54:099][492]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.10-21.00.54:105][492]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.06.10-21.00.54:131][492]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.54:380][492]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_3
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.54:385][492]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.54:400][492]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.00.54:457][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.06.10-21.00.54:457][492]LogPlayLevel: PlayLevel: Blueprint regeneration took 357 ms (1 blueprints)
+[2019.06.10-21.00.54:457][492]PIE: New page: PIE session: FirstPersonExampleMap (Jun 10, 2019, 7:00:54 AM)
+[2019.06.10-21.00.54:457][492]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.10-21.00.54:474][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016579s)
+[2019.06.10-21.00.54:475][492]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.10-21.00.54:475][492]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2019.06.10-21.00.54:475][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017577s)
+[2019.06.10-21.00.54:529][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.06.10-21.00.54:550][492]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.10-21.00.54:579][492]LogInit: FAudioDevice initialized.
+[2019.06.10-21.00.54:606][492]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-21.00.54:609][492]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.06.10-14.00.54
+[2019.06.10-21.00.54:610][492]LogWorld: Bringing up level for play took: 0.002773
+[2019.06.10-21.00.54:622][492]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.10-21.00.54:624][492]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.418
+[2019.06.10-21.00.54:624][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.00.56:862][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.00.56:862][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.00.56:894][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-21.00.56:894][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.00.56:943][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.00.56:948][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.06.10-21.00.56:992][616]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.06.10-21.00.58:837][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-21.00.59:012][729]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.06.10-21.01.14:119][556]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.01.52:804][799]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonCharacter6B39CE7F4F3537B58024EAB958B3F28D.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.06.10-21.02.01:705][956]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-21.02.01:722][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.02.01:722][956]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.10-21.02.01:725][956]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.06.10-21.02.01:757][956]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.02.02:008][956]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_4
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.02.02:010][956]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.02.02:032][956]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.02.02:094][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2019.06.10-21.02.02:094][956]LogPlayLevel: PlayLevel: Blueprint regeneration took 371 ms (1 blueprints)
+[2019.06.10-21.02.02:094][956]PIE: New page: PIE session: FirstPersonExampleMap (Jun 10, 2019, 7:02:02 AM)
+[2019.06.10-21.02.02:095][956]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.10-21.02.02:113][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017237s)
+[2019.06.10-21.02.02:113][956]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.10-21.02.02:114][956]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2019.06.10-21.02.02:114][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018854s)
+[2019.06.10-21.02.02:173][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.06.10-21.02.02:192][956]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.10-21.02.02:217][956]LogInit: FAudioDevice initialized.
+[2019.06.10-21.02.02:248][956]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-21.02.02:251][956]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.06.10-14.02.02
+[2019.06.10-21.02.02:251][956]LogWorld: Bringing up level for play took: 0.002409
+[2019.06.10-21.02.02:263][956]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.10-21.02.02:264][956]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.223
+[2019.06.10-21.02.02:265][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.02.12:937][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.02.12:937][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.02.12:973][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-21.02.12:973][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.02.13:028][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.02.13:033][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.06.10-21.02.13:095][585]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.10-21.02.26:489][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-21.03.37:212][610]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUD6CDA294649B3E2734DBB6599E8FFF3F3.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FPSHUD.uasset'
+[2019.06.10-21.03.39:868][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-21.03.39:904][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.39:904][768]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.10-21.03.39:908][768]LogPlayLevel: [PlayLevel] Compiling FPSHUD before play...
+[2019.06.10-21.03.40:208][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.06.10-21.03.40:208][768]LogPlayLevel: PlayLevel: Blueprint regeneration took 303 ms (1 blueprints)
+[2019.06.10-21.03.40:208][768]PIE: New page: PIE session: FirstPersonExampleMap (Jun 10, 2019, 7:03:40 AM)
+[2019.06.10-21.03.40:208][768]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.10-21.03.40:225][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016190s)
+[2019.06.10-21.03.40:225][768]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.10-21.03.40:225][768]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2019.06.10-21.03.40:225][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017421s)
+[2019.06.10-21.03.40:279][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.06.10-21.03.40:301][768]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.10-21.03.40:332][768]LogInit: FAudioDevice initialized.
+[2019.06.10-21.03.40:365][768]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-21.03.40:368][768]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.06.10-14.03.40
+[2019.06.10-21.03.40:369][768]LogWorld: Bringing up level for play took: 0.002745
+[2019.06.10-21.03.40:381][768]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.10-21.03.40:383][768]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.341
+[2019.06.10-21.03.40:383][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.50:816][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.50:816][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.03.50:854][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-21.03.50:855][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.50:914][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.03.50:919][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.06.10-21.03.50:969][385]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.06.10-21.03.52:881][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-21.03.53:447][530]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-21.03.53:464][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.53:464][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.10-21.03.53:464][530]PIE: New page: PIE session: FirstPersonExampleMap (Jun 10, 2019, 7:03:53 AM)
+[2019.06.10-21.03.53:465][530]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.10-21.03.53:480][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015450s)
+[2019.06.10-21.03.53:481][530]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.10-21.03.53:481][530]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2019.06.10-21.03.53:481][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016538s)
+[2019.06.10-21.03.53:537][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.06.10-21.03.53:556][530]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.10-21.03.53:582][530]LogInit: FAudioDevice initialized.
+[2019.06.10-21.03.53:608][530]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-21.03.53:611][530]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.06.10-14.03.53
+[2019.06.10-21.03.53:612][530]LogWorld: Bringing up level for play took: 0.002723
+[2019.06.10-21.03.53:624][530]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.10-21.03.53:627][530]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.586
+[2019.06.10-21.03.53:627][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.55:884][664]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.55:884][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.03.55:920][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-21.03.55:920][664]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.03.55:984][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.03.55:989][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.06.10-21.03.56:033][665]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.06.10-21.04.06:188][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-21.04.24:737][323]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.24:747][323]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.25:757][376]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonCharacterCA648D0A4EFBB48DBA6D2BB232386A76.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.06.10-21.04.30:508][648]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonCharacterF2D57A404DBF83358C66F683D71BF801.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.06.10-21.04.32:801][777]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-21.04.32:829][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.04.32:829][777]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.10-21.04.32:831][777]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.06.10-21.04.32:860][777]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.33:095][777]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_5
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.33:097][777]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_6
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.33:158][777]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_6
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.33:209][777]LogPlayLevel: [PlayLevel] Compiling FPSHUD before play...
+[2019.06.10-21.04.33:592][777]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.06.10-21.04.33:592][777]LogPlayLevel: PlayLevel: Blueprint regeneration took 763 ms (2 blueprints)
+[2019.06.10-21.04.33:592][777]PIE: New page: PIE session: FirstPersonExampleMap (Jun 10, 2019, 7:04:33 AM)
+[2019.06.10-21.04.33:592][777]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.10-21.04.33:609][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017171s)
+[2019.06.10-21.04.33:609][777]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.10-21.04.33:609][777]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2019.06.10-21.04.33:610][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018102s)
+[2019.06.10-21.04.33:669][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.06.10-21.04.33:688][777]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.10-21.04.33:716][777]LogInit: FAudioDevice initialized.
+[2019.06.10-21.04.33:749][777]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-21.04.33:752][777]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.06.10-14.04.33
+[2019.06.10-21.04.33:753][777]LogWorld: Bringing up level for play took: 0.002927
+[2019.06.10-21.04.33:765][777]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.10-21.04.33:767][777]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.726
+[2019.06.10-21.04.33:767][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.04.36:593][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.04.36:593][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.04.36:627][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-21.04.36:627][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.04.36:688][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.04.36:693][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.06.10-21.04.36:741][936]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.06.10-21.04.38:950][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-21.04.56:672][553]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonCharacter166C6E0A4232A4E660A7A0938F68B3CC.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.06.10-21.04.58:684][672]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.10-21.04.58:714][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.04.58:714][672]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.10-21.04.58:716][672]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.06.10-21.04.58:739][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_6
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.58:969][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_6
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.58:972][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_7
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.59:021][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetChildComponent_ReturnValue
+	FirstPersonCharacter_C /Engine/Transient.World_1:PersistentLevel.FirstPersonCharacter_C_7
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0046
+[2019.06.10-21.04.59:111][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.06.10-21.04.59:111][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 396 ms (1 blueprints)
+[2019.06.10-21.04.59:111][672]PIE: New page: PIE session: FirstPersonExampleMap (Jun 10, 2019, 7:04:59 AM)
+[2019.06.10-21.04.59:111][672]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.10-21.04.59:127][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015716s)
+[2019.06.10-21.04.59:128][672]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.10-21.04.59:128][672]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2019.06.10-21.04.59:128][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016736s)
+[2019.06.10-21.04.59:185][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.06.10-21.04.59:206][672]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.10-21.04.59:233][672]LogInit: FAudioDevice initialized.
+[2019.06.10-21.04.59:262][672]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.06.10-21.04.59:265][672]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.06.10-14.04.59
+[2019.06.10-21.04.59:265][672]LogWorld: Bringing up level for play took: 0.002669
+[2019.06.10-21.04.59:277][672]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.06.10-21.04.59:279][672]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.238
+[2019.06.10-21.04.59:279][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.05.30:457][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.05.30:457][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.05.30:491][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.10-21.05.30:491][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.10-21.05.30:549][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.10-21.05.30:554][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.06.10-21.05.30:612][536]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.06.10-21.06.04:028][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.06.10-21.06.04:356][119]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonExampleMap_Auto194EF7E9F467DE710CD094DA5BE333FCD.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2019.06.10-21.06.04:363][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.386
+[2019.06.10-21.06.04:363][119]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
+[2019.06.10-21.06.04:365][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FPSHUD] ([1] browsable assets)...
+[2019.06.10-21.06.04:366][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FPSHUD]
+[2019.06.10-21.06.04:407][119]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUD_Auto164945B10493058679757C486DFF874EF.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FPSHUD_Auto1.uasset'
+[2019.06.10-21.06.04:410][119]LogFileHelpers: Auto-saving content packages took 0.045
+[2019.06.10-21.06.30:680][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.06.10-21.06.30:949][252]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.10-21.06.31:025][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.06.10-21.06.31:377][252]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FirstPersonExampleMap95B58636405E30796AE93AA1735B285C.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.10-21.06.32:094][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.10-21.06.33:426][339]LogSavePackage: Moving '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Saved/FPSHUD83E11D4044EC045FA053DFB85863ED31.tmp' to '../../../../../../Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/SpookyPrisonBreak/Content/FirstPersonBP/Blueprints/FPSHUD.uasset'
