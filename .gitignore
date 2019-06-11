@@ -83,13 +83,15 @@ SpookyPrisonBreak/Plugins/*/Intermediate/*
 # Cache files for the editor to use
 SpookyPrisonBreak/DerivedDataCache/*
 =======
-./SpookyDungeonBreak/Saved/**
-SpookyDungeonBreak/Saved/**
+./SpookyPrisonBreak/Saved/**
+SpookyPrisonBreak/Saved/**
+./SpookyPrisonBreak/Saved/**
+SpookyPrisonBreak/Saved/**
 /d/Users/Jason/Documents/Unreal Projects/SpookyDungeonBreak/SpookyDungeonBreak/Saved/Logs/SpookyPrisonBeak.log
 
 # Compiled source files for the engine to use
-SpookyDungeonBreak/Intermediate/*
-SpookyDungeonBreak/Plugins/*/Intermediate/*
+SpookyPrisonBreak/Intermediate/*
+SpookyPrisonBreak/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 SpookyDungeonBreak/DerivedDataCache/*
